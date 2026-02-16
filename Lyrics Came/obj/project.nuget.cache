@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3dUHbBp3j0=",
+  "success": true,
+  "projectFilePath": "D:\\visual s\\Lyrics Came\\Lyrics Came\\Lyrics Came.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monsef\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.1\\microsoft.dotnet.ilcompiler.10.0.1.nupkg.sha512",
+    "C:\\Users\\monsef\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.1\\microsoft.net.illink.tasks.10.0.1.nupkg.sha512",
+    "C:\\Users\\monsef\\.nuget\\packages\\spectre.console\\0.54.0\\spectre.console.0.54.0.nupkg.sha512",
+    "C:\\Users\\monsef\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

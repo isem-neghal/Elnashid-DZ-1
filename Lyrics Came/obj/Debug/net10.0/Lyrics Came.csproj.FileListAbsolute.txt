@@ -1,0 +1,17 @@
+D:\visual s\Lyrics Came\Lyrics Came\obj\Debug\net10.0\Lyrics Came.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual s\Lyrics Came\Lyrics Came\obj\Debug\net10.0\Lyrics Came.AssemblyInfoInputs.cache
+D:\visual s\Lyrics Came\Lyrics Came\obj\Debug\net10.0\Lyrics Came.AssemblyInfo.cs
+D:\visual s\Lyrics Came\Lyrics Came\obj\Debug\net10.0\Lyrics Came.csproj.CoreCompileInputs.cache
+D:\visual s\Lyrics Came\Lyrics Came\bin\Debug\net10.0\Lyrics Came.exe
+D:\visual s\Lyrics Came\Lyrics Came\bin\Debug\net10.0\Lyrics Came.deps.json
+D:\visual s\Lyrics Came\Lyrics Came\bin\Debug\net10.0\Lyrics Came.runtimeconfig.json
+D:\visual s\Lyrics Came\Lyrics Came\bin\Debug\net10.0\Lyrics Came.dll
+D:\visual s\Lyrics Came\Lyrics Came\bin\Debug\net10.0\Lyrics Came.pdb
+D:\visual s\Lyrics Came\Lyrics Came\obj\Debug\net10.0\Lyrics Came.dll
+D:\visual s\Lyrics Came\Lyrics Came\obj\Debug\net10.0\refint\Lyrics Came.dll
+D:\visual s\Lyrics Came\Lyrics Came\obj\Debug\net10.0\Lyrics Came.pdb
+D:\visual s\Lyrics Came\Lyrics Came\obj\Debug\net10.0\Lyrics Came.genruntimeconfig.cache
+D:\visual s\Lyrics Came\Lyrics Came\obj\Debug\net10.0\ref\Lyrics Came.dll
+D:\visual s\Lyrics Came\Lyrics Came\bin\Debug\net10.0\Spectre.Console.dll
+D:\visual s\Lyrics Came\Lyrics Came\obj\Debug\net10.0\Lyrics Came.csproj.AssemblyReference.cache
+D:\visual s\Lyrics Came\Lyrics Came\obj\Debug\net10.0\Lyrics C.17826B2B.Up2Date
